@@ -1,0 +1,10 @@
+C:\Users\Marina de Robles\Desktop\My_Calculator_Perido\My_Calculator_Perido\bin\Debug\My_Calculator_Perido.exe.config
+C:\Users\Marina de Robles\Desktop\My_Calculator_Perido\My_Calculator_Perido\bin\Debug\My_Calculator_Perido.exe
+C:\Users\Marina de Robles\Desktop\My_Calculator_Perido\My_Calculator_Perido\bin\Debug\My_Calculator_Perido.pdb
+C:\Users\Marina de Robles\Desktop\My_Calculator_Perido\My_Calculator_Perido\obj\Debug\My_Calculator_Perido.csproj.AssemblyReference.cache
+C:\Users\Marina de Robles\Desktop\My_Calculator_Perido\My_Calculator_Perido\obj\Debug\My_Calculator_Perido.Form1.resources
+C:\Users\Marina de Robles\Desktop\My_Calculator_Perido\My_Calculator_Perido\obj\Debug\My_Calculator_Perido.Properties.Resources.resources
+C:\Users\Marina de Robles\Desktop\My_Calculator_Perido\My_Calculator_Perido\obj\Debug\My_Calculator_Perido.csproj.GenerateResource.cache
+C:\Users\Marina de Robles\Desktop\My_Calculator_Perido\My_Calculator_Perido\obj\Debug\My_Calculator_Perido.csproj.CoreCompileInputs.cache
+C:\Users\Marina de Robles\Desktop\My_Calculator_Perido\My_Calculator_Perido\obj\Debug\My_Calculator_Perido.exe
+C:\Users\Marina de Robles\Desktop\My_Calculator_Perido\My_Calculator_Perido\obj\Debug\My_Calculator_Perido.pdb
